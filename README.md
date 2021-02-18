@@ -1,5 +1,7 @@
-###I am Adrika Raihana
-####CTF Player and Web Designer
+
+### Hi there 👋, my name Adrika Raihana
+#### CTF Player and Web Designer
+
 Currently pursuing my undergraduate studies at the Department of Information and Communication Technology in Islamic University, Bangladesh.
 
 
