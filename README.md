@@ -7,6 +7,7 @@ Currently pursuing my undergraduate studies at the Department of Information and
 
 Skills:C/ HTML / CSS
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrikaadri)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
