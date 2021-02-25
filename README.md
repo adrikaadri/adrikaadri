@@ -11,7 +11,7 @@ Currently pursuing my undergraduate studies at the Department of Information and
 ## Skills
 . 💻 C/Webcoding(HTML,CSS)
 
-. 🔥 Windows OS / Kali Os
+. 🔥 Windows OS / Kali OS
 
 . ✔Cryptography / Steganography
 
